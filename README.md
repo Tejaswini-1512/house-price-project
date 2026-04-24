@@ -1,10 +1,6 @@
-# 🏠 House Price Prediction
+## 📊 Features
+- User input prediction
+- Real-time price estimation
 
-This project predicts house prices using Machine Learning.
-
-## 🚀 Tech Stack
-- Python
-- Streamlit
-- Scikit-learn
-
-## ▶️ Run Locally
+## 📁 Dataset
+California Housing Dataset
